@@ -25,12 +25,12 @@
       "self_destruction": {
         "name": "Selbstzerstörungszeit",
         "hint": "bei Inaktivität",
-        "text": "1, 3, 6 und 12 Monate (standardmäßig 6)"
+        "text": "1, 3, 6, 12, 18 oder 24 Monate (standardmäßig 18)"
       },
       "spam_ban": {
         "name": "Spam-Bann",
         "hint": "",
-        "text": "von 1 Tag bis für immer"
+        "text": "von 1 Sekunde bis für immer"
       },
       "channels_and_chats_number": {
         "name": "Anzahl der Kanäle und Supergruppen",
@@ -110,7 +110,7 @@
       "recent_actions": {
         "name": "Letzte Aktionen",
         "hint": "(Abonnements, Beiträge, etc.)",
-        "text": "letzte zwei Tage"
+        "text": "letzten 48 Stunden"
       },
       "mentions_amount": {
         "name": "Anzahl der Erwähnungen",
@@ -190,7 +190,7 @@
       "voice_chat_schedule": {
         "name": "Geplante Sprachchats",
         "hint": "",
-        "text": "bis zu 7 Tage im Voraus"
+        "text": "bis zu 7 Tage im Vorraus"
       }
     }
   },
@@ -270,7 +270,7 @@
       "media_descriptions": {
         "name": "Medienbeschreibungen",
         "hint": "",
-        "text": "bis zu 1024 Zeichen; für Premium-Nutzer - bis zu 2048 Zeichen"
+        "text": "bis zu 1024 Zeichen; für Premium-Nutzer - bis zu 4096 Zeichen"
       },
       "upload_size": {
         "name": "Maximale Dateigröße",
@@ -316,26 +316,6 @@
         "name": "Angeheftete Chats in einem Ordner",
         "hint": "",
         "text": "bis zu 100 Chats; für Premium-Nutzer - bis zu 200 Chats"
-      }
-    }
-  },
-  "people_nearby": {
-    "name": "Leute in der Nähe",
-    "items": {
-      "range": {
-        "name": "Sichtbarer Bereich",
-        "hint": "",
-        "text": "etwa 12 Kilometer"
-      },
-      "amount_of_people": {
-        "name": "Anzahl sichtbarer Nutzer",
-        "hint": "",
-        "text": "bis zu 100 Leute"
-      },
-      "geochats_number": {
-        "name": "Anzahl sichtbarer Geochats",
-        "hint": "",
-        "text": "bis zu 10 nächste"
       }
     }
   },
@@ -413,23 +393,23 @@
         "text": "bis zu 20 Nachrichten pro Minute in einem Chat"
       },
       "bot_commands_count": {
-        "name": "Anzahl der Kommandos",
+        "name": "Anzahl der Befehle",
         "hint": "(im BotFather)",
-        "text": "0 bis 100 Kommandos"
+        "text": "0 bis 100 Befehle"
       },
       "bot_command_name_length": {
-        "name": "Kommandolänge",
+        "name": "Befehllänge",
         "hint": "(im BotFather)",
         "text": "1 bis 32 Zeichen"
       },
       "bot_command_description_length": {
-        "name": "Länge der Kommando-Beschreibung",
+        "name": "Länge der Befehl-Beschreibung",
         "hint": "",
         "text": "bis zu 256 Zeichen, darf nicht leer sein, wenn über die Bot API definiert"
       },
       "start_payload_size": {
         "name": "Länge des /start-Parameters für Bots",
-        "hint": "für Deeplinking",
+        "hint": "für Deeplinks",
         "text": "bis zu 64 Bytes"
       },
       "bot_alert_length": {
