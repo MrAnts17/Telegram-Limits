@@ -319,26 +319,6 @@
       }
     }
   },
-  "people_nearby": {
-    "name": "Leute in der Nähe",
-    "items": {
-      "range": {
-        "name": "Sichtbarer Bereich",
-        "hint": "",
-        "text": "etwa 12 Kilometer"
-      },
-      "amount_of_people": {
-        "name": "Anzahl sichtbarer Nutzer",
-        "hint": "",
-        "text": "bis zu 100 Leute"
-      },
-      "geochats_number": {
-        "name": "Anzahl sichtbarer Geochats",
-        "hint": "",
-        "text": "bis zu 10 nächste"
-      }
-    }
-  },
   "bots": {
     "name": "Bots",
     "items": {
