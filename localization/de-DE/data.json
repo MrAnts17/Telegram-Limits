@@ -25,12 +25,12 @@
       "self_destruction": {
         "name": "Selbstzerstörungszeit",
         "hint": "bei Inaktivität",
-        "text": "1, 3, 6 und 12 Monate (standardmäßig 6)"
+        "text": "1, 3, 6, 12, 18 und 24 Monate (standardmäßig 18)"
       },
       "spam_ban": {
-        "name": "Spam-Bann",
+        "name": "Spamban",
         "hint": "",
-        "text": "von 1 Tag bis für immer"
+        "text": "von 1 Sekunde bis dauerhaft"
       },
       "channels_and_chats_number": {
         "name": "Anzahl der Kanäle und Supergruppen",
