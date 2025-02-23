@@ -449,7 +449,7 @@
                 "hint": "für Bots",
                 "text": "5 bis 32 Zeichen"
             },
-            "                "name": "Länge der Bot Info",
+                "name": "Länge der Bot Info",
                 "hint": "(/setabouttext)",
                 "text": "bis zu 120 Zeichen"
             },
