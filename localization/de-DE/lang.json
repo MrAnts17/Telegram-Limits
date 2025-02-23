@@ -1,15 +1,15 @@
 {
     "title": "Telegram Limits — Telegram Info",
-    "description": "Immer aktuelle Telegram-Limits in {%year%}. Beschränkungen in Bezug auf Nachrichtenlänge, Anzahl der Sticker in Sets, Nachrichtenfrequenz in der Bot-API, Anzahl der Teilnehmer, Bearbeitung, maximale Dateigröße und mehr",
-    "description_short": "Immer aktuelle Telegram-Limits",
+    "description": "Immer aktuelle Telegram Limits in {%year%}. Beschränkungen in Bezug auf Nachrichtenlänge, Anzahl der Sticker in Sets, Nachrichtenfrequenz in der Bot API, Anzahl der Teilnehmer, Bearbeitung, maximale Dateigröße und mehr",
+    "description_short": "Immer aktuelle Telegram Limits",
     "study": "| Studie",
     "big_title": "Telegram Limits",
-    "article_name": "Warum es Beschränkungen gibt",
+    "article_name": "Warum es Limits gibt",
     "article_p1": "Wie bei jedem anderen Dienst verwendet auch Telegram Limits, um sicherzustellen, dass die Nutzer die Richtlinien zur fairen Nutzung einhalten und der Dienst einwandfrei funktioniert.",
     "article_p2": "Diese Tabelle listet die derzeit bekannten Telegram-Limits auf und wird aktuell gehalten.",
     "loading": "Lädt...",
     "homepage": "Startseite",
     "language": "Sprache",
     "search": "Suche",
-    "for_premium_users": "für Telegram Premium-Nutzer"
+    "for_premium_users": "für Telegram Premium Nutzer"
 }
