@@ -307,85 +307,85 @@
         }
     },
     "messages": {
-        "name": "Messages",
+        "name": "Nachrichten",
         "items": {
             "single_message_length": {
-                "name": "One message length",
+                "name": "Länge einer Nachricht",
                 "hint": "",
-                "text": "up to 4,096 characters"
+                "text": "bis zu 4.096 Zeichen"
             },
             "media_descriptions": {
-                "name": "Media captions",
+                "name": "Medienbeschreibungen",
                 "hint": "",
-                "text": "up to 1,024 characters",
-                "text_premium": "up to 2,048 characters"
+                "text": "bis zu 1.024 Zeichen",
+                "text_premium": "bis zu 4.096 Zeichen"
             },
             "upload_size": {
-                "name": "File size limit",
+                "name": "Dateigrößenlimit",
                 "hint": "",
-                "text": "up to 2 GB",
-                "text_premium": "up to 4 GB"
+                "text": "bis zu 2 GB",
+                "text_premium": "bis zu 4 GB"
             },
             "file_name_length": {
-                "name": "File name length",
+                "name": "Länge des Dateinamens",
                 "hint": "",
-                "text": "up to 60 characters, others will be trimmed out"
+                "text": "bis zu 60 Zeichen, andere werden gekürzt"
             },
             "video_message_duration": {
-                "name": "Video message duration",
+                "name": "Dauer der Videonachricht",
                 "hint": "",
-                "text": "up to 1 minute"
+                "text": "bis zu 1 Minute"
             },
             "album_size": {
-                "name": "Images and videos in single message",
-                "hint": "(album)",
-                "text": "up to 10 items"
+                "name": "Bilder und Videos in einer einzelnen Nachricht",
+                "hint": "(Album)",
+                "text": "bis zu 10 Elemente"
             },
             "delayed_messages": {
-                "name": "Scheduled messages number",
+                "name": "Anzahl geplanter Nachrichten",
                 "hint": "",
-                "text": "up to 100 items (per each chat)"
+                "text": "bis zu 100 Elemente (pro Chat)"
             },
             "delaying_messages": {
-                "name": "Schedule range",
+                "name": "Planungsbereich",
                 "hint": "",
-                "text": "up to 365 days"
+                "text": "bis zu 365 Tage"
             },
             "custom_emoji_per_message": {
-                "name": "Custom emoji per message",
-                "hint": "without Telegram Premium, custom emoji can be sent only to Saved Messages, more than 100 custom emoji are replaced with the corresponding standard emoji",
-                "text": "not available",
-                "text_premium": "up to 100 emoji"
+                "name": "Benutzerdefinierte Emojis pro Nachricht",
+                "hint": "ohne Telegram Premium können benutzerdefinierte Emojis nur an gespeicherte Nachrichten gesendet werden, mehr als 100 benutzerdefinierte Emojis werden durch die entsprechenden Standard Emojis ersetzt",
+                "text": "nicht verfügbar",
+                "text_premium": "bis zu 100 Emojis"
             },
             "links_per_message": {
-                "name": "Links per message",
+                "name": "Links pro Nachricht",
                 "hint": "",
-                "text": "up to 100 links"
+                "text": "bis zu 100 Links"
             }
         }
     },
     "poll": {
-        "name": "Polls",
+        "name": "Umfragen",
         "items": {
             "poll_question_length": {
-                "name": "Poll question length",
+                "name": "Länge der Umfragefrage",
                 "hint": "",
-                "text": "1 to 255 characters"
+                "text": "1 bis 255 Zeichen"
             },
             "quiz_question_length": {
-                "name": "Quiz question length",
+                "name": "Länge der Quizfrage",
                 "hint": "",
-                "text": "1 to 200 characters"
+                "text": "1 bis 200 Zeichen"
             },
             "poll_options_count": {
-                "name": "Poll options count",
+                "name": "Anzahl der Umfrageoptionen",
                 "hint": "",
-                "text": "2 to 10"
+                "text": "2 bis 10"
             },
             "poll_option_length": {
-                "name": "Poll option length",
+                "name": "Länge der Umfrageoption",
                 "hint": "",
-                "text": "1 to 100 characters"
+                "text": "1 bis 100 Zeichen"
             }
         }
     },
