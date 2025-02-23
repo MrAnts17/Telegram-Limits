@@ -85,103 +85,103 @@
         }
     },
     "chats": {
-        "name": "Chats and groups",
+        "name": "Chats und Gruppen",
         "items": {
             "participants_number": {
-                "name": "Participants",
-                "hint": "(limit can be raised)",
-                "text": "up to 200,000 but unlimited in Broadcast Groups"
+                "name": "Teilnehmer",
+                "hint": "(Limit kann erhöht werden)",
+                "text": "bis zu 200.000, aber unbegrenzt in Broadcast Gruppen"
             },
             "admins_number": {
-                "name": "Number of admins",
-                "hint": "in groups",
-                "text": "up to 50"
+                "name": "Anzahl der Administratoren",
+                "hint": "in Gruppen",
+                "text": "bis zu 50"
             },
             "bots_amount": {
-                "name": "Number of bots",
-                "hint": "in groups",
-                "text": "up to 20"
+                "name": "Anzahl der Bots",
+                "hint": "in Gruppen",
+                "text": "bis zu 20"
             },
             "pinned_number": {
-                "name": "Pinned chats in main list",
+                "name": "Anzahl der angepinnten Chats in der Hauptliste",
                 "hint": "",
-                "text": "up to 5 chats or channels + 5 secret chats",
-                "text_premium": "up to 10 chats or channels"
+                "text": "bis zu 5 Chats oder Kanäle + 5 geheime Chats",
+                "text_premium": "bis zu 10 Chats oder Kanäle"
             },
             "group_name": {
-                "name": "Group name and description",
+                "name": "Gruppenname und Beschreibung",
                 "hint": "",
-                "text": "up to 255 characters"
+                "text": "bis zu 255 Zeichen"
             },
             "editing": {
-                "name": "Message editing",
+                "name": "Nachrichtenbearbeitung",
                 "hint": "",
-                "text": "in 48 hours after sending; unlimited in Saved and for admins with pinning rights"
+                "text": "innerhalb von 48 Stunden nach dem Senden; unbegrenzt in Gespeichertem und für Administratoren mit Anpinnrechten"
             },
             "media_self_destruction": {
-                "name": "Photo and video self-destruction",
+                "name": "Selbstzerstörung von Fotos und Videos",
                 "hint": "",
-                "text": "1 to 60 seconds"
+                "text": "1 bis 60 Sekunden"
             },
             "recent_actions": {
-                "name": "Recent actions",
-                "hint": "(subscriptions, posts, etc.)",
-                "text": "last two days"
+                "name": "Letzte Aktionen",
+                "hint": "(Abonnenten, Beiträge, etc.)",
+                "text": "die letzten zwei Tage"
             },
             "mentions_amount": {
-                "name": "Mentions number",
-                "hint": "in a single message",
-                "text": "up to 50, only first 5 from list will receive notification"
+                "name": "Anzahl der Erwähnungen",
+                "hint": "in einer einzelnen Nachricht",
+                "text": "bis zu 50, nur die ersten 5 aus der Liste erhalten eine Benachrichtigung"
             },
             "visible_messages": {
-                "name": "Visible messages number",
-                "hint": "in group",
-                "text": "1,000,000 last messages"
+                "name": "Anzahl sichtbarer Nachrichten",
+                "hint": "in Gruppen",
+                "text": "die letzten 1.000.000 Nachrichten"
             },
             "pinned_messages_number": {
-                "name": "Pinned messages number",
+                "name": "Anzahl der angepinnten Nachrichten",
                 "hint": "",
-                "text": "unlimited"
+                "text": "unbegrenzt"
             },
             "participants_to_see_stats": {
-                "name": "Number of members to see statistics",
+                "name": "Anzahl der Mitglieder, um Statistiken zu sehen",
                 "hint": "",
-                "text": "at least 500"
+                "text": "mindestens 500"
             },
             "username_reservation": {
-                "name": "Username change reservation",
-                "hint": "(time before username will be available for everyone, not just the original owner)",
-                "text": "about 15-30 minutes"
+                "name": "Reservierung bei der Änderung des Benutzernamens",
+                "hint": "(Zeit bevor der Benutzername für alle verfügbar ist, nicht nur für den ursprünglichen Besitzer)",
+                "text": "ca. 15-30 Minuten"
             },
             "participants_for_group_stickers": {
-                "name": "Group-promoted stickers",
+                "name": "Gruppen-promotete Sticker",
                 "hint": "",
-                "text": "groups with 100+ participants"
+                "text": "Gruppen mit 100+ Teilnehmern"
             },
             "chat_role_length": {
-                "name": "Admin role length",
+                "name": "Länge der Adminrolle",
                 "hint": "",
-                "text": "up to 16 characters"
+                "text": "bis zu 16 Zeichen"
             },
             "chat_title_length": {
-                "name": "Chat title length",
+                "name": "Länge des Chattitels",
                 "hint": "",
-                "text": "up to 128 characters"
+                "text": "bis zu 128 Zeichen"
             },
             "broadcast_group_access": {
-                "name": "Converting a supergroup to broadcast group",
+                "name": "Umwandlung einer Supergruppe in eine Broadcast-Gruppe",
                 "hint": "",
-                "text": "for chats with 199,000+ members"
+                "text": "für Chats mit 199.000+ Mitgliedern"
             },
             "read_receipts_lifetime": {
-                "name": "Read receipts lifetime",
+                "name": "Lebensdauer der Lesebestätigungen",
                 "hint": "",
-                "text": "up to 7 days since message was sent"
+                "text": "bis zu 7 Tage seit dem Versand der Nachricht"
             },
             "read_receipts_availability": {
-                "name": "Read receipts availability",
+                "name": "Verfügbarkeit der Lesebestätigungen",
                 "hint": "",
-                "text": "for chats with 100 members or less, the list of users is only available for the user who sent the message"
+                "text": "für Chats mit 100 Mitgliedern oder weniger, die Liste der Benutzer ist nur für den Benutzer verfügbar, der die Nachricht gesendet hat"
             }
         }
     },
