@@ -189,120 +189,120 @@
         "name": "Forum",
         "items": {
             "visible_users_in_topic_group": {
-                "name": "Visible users in topic group",
+                "name": "Sichtbare Benutzer in der Themen Gruppe",
                 "hint": "",
-                "text": "up to 100"
+                "text": "bis zu 100"
             },
             "topics_per_group": {
-                "name": "Topics per group",
+                "name": "Themen pro Gruppe",
                 "hint": "",
-                "text": "up to 1,000,000"
+                "text": "bis zu 1.000.000"
             },
             "topic_title_length": {
-                "name": "Topic title length",
+                "name": "Länge des Themen Titels",
                 "hint": "",
-                "text": "up to 128 characters"
+                "text": "bis zu 128 Zeichen"
             },
             "pinned_topics": {
-                "name": "Pinned topics",
+                "name": "Angepinnte Themen",
                 "hint": "",
-                "text": "up to 5"
+                "text": "bis zu 5"
             }
         }
     },
     "voice_chats": {
-        "name": "Voice & Video Chats",
+        "name": "Sprach- und Video-Chats",
         "items": {
             "voice_chat_participants": {
-                "name": "Audio Chat listeners",
+                "name": "Audio Chat Hörer",
                 "hint": "",
-                "text": "unlimited"
+                "text": "unbegrenzt"
             },
             "video_chat_broadcast": {
-                "name": "Broadcasting video",
-                "hint": "(camera, screen casting)",
-                "text": "up to 30 broadcasting users simultaneously"
+                "name": "Übertragung von Videos",
+                "hint": "(Kamera, Bildschirmübertragung)",
+                "text": "bis zu 30 Nutzer gleichzeitig"
             },
             "video_chat_viewers": {
-                "name": "Video broadcast viewers",
+                "name": "Video Chat Zuschauer",
                 "hint": "",
-                "text": "officially it's stated to be unlimited, in practice, the stream becomes unstable at about 2,000 simultaneous viewers"
+                "text": "offiziell unbegrenzt, in der Praxis wird der Stream bei etwa 2.000 gleichzeitigen Zuschauern instabil"
             },
             "voice_chat_title_length": {
-                "name": "Voice chat title length",
+                "name": "Länge des Sprachchat-Titels",
                 "hint": "",
-                "text": "up to 40 characters"
+                "text": "bis zu 40 Zeichen"
             },
             "voice_chat_schedule": {
-                "name": "Scheduled chats",
+                "name": "Geplante Chats",
                 "hint": "",
-                "text": "up to 7 days ahead"
+                "text": "bis zu 7 Tage im Voraus"
             }
         }
     },
     "channels": {
-        "name": "Channels",
+        "name": "Kanäle",
         "items": {
             "public_usernames": {
-                "name": "Public usernames number",
-                "hint": "for a single account",
-                "text": "up to 10 (including groups)",
-                "text_premium": "up to 20 (including groups)"
+                "name": "Anzahl der öffentlichen Benutzernamen",
+                "hint": "für ein einzelnes Konto",
+                "text": "bis zu 10 (einschließlich Gruppen)",
+                "text_premium": "bis zu 20 (einschließlich Gruppen)"
             },
             "username_length": {
-                "name": "Length of @username",
+                "name": "Länge des @Benutzernamens",
                 "hint": "",
-                "text": "5 to 32 characters"
+                "text": "5 bis 32 Zeichen"
             },
             "channel_name": {
-                "name": "Channel name and description",
+                "name": "Kanalname und Beschreibung",
                 "hint": "",
-                "text": "up to 255 characters"
+                "text": "bis zu 255 Zeichen"
             },
             "channel_admins": {
-                "name": "Channel admins number",
-                "hint": "(including bots; you can add a bot to your channel only by making it an admin)",
-                "text": "up to 50 accounts"
+                "name": "Anzahl der Kanal Administratoren",
+                "hint": "(einschließlich Bots; du kannst einen Bot nur hinzufügen, indem du ihn zum Admin machst)",
+                "text": "bis zu 50 Konten"
             },
             "editing": {
-                "name": "Posts editing",
+                "name": "Bearbeiten von Beiträgen",
                 "hint": "",
-                "text": "unlimited (if the channel has a discussion group linked, posts older than 2 weeks won't be updated in the chat)"
+                "text": "unbegrenzt (wenn der Kanal eine Diskussionsgruppe verlinkt hat, werden Beiträge, die älter als 2 Wochen sind, nicht im Chat aktualisiert)"
             },
             "subscribers": {
-                "name": "Channel subscribers number",
+                "name": "Anzahl der Kanal-Abonnenten",
                 "hint": "",
-                "text": "unlimited"
+                "text": "unbegrenzt"
             },
             "visible_participants": {
-                "name": "Visible subscribers",
-                "hint": "for channel admin",
-                "text": "200 people"
+                "name": "Sichtbare Abonnenten",
+                "hint": "für Kanal Admins",
+                "text": "200 Personen"
             },
             "channel_deletion": {
-                "name": "Channel deletion",
+                "name": "Kanal Löschung",
                 "hint": "",
-                "text": "channels with more than 1K subscribers can be deleted only with Telegram support"
+                "text": "Kanäle mit mehr als 1.000 Abonnenten können nur mit Unterstützung von Telegram gelöscht werden"
             },
             "private_channel_access": {
-                "name": "Viewing private channels without joining",
-                "hint": "(for channels with 200+ subscribers)",
-                "text": "up to 5 minutes once a day"
+                "name": "Anzeigen von privaten Kanälen ohne Beitritt",
+                "hint": "(für Kanäle mit mehr als 200 Abonnenten)",
+                "text": "bis zu 5 Minuten einmal am Tag"
             },
             "invintations": {
-                "name": "Inviting users",
+                "name": "Einladen von Benutzern",
                 "hint": "",
-                "text": "up to 200 people"
+                "text": "bis zu 200 Personen"
             },
             "followers_to_see_stats": {
-                "name": "Number of subscribers to see statistics",
+                "name": "Anzahl der Abonnenten, um Statistiken zu sehen",
                 "hint": "",
-                "text": "at least 50"
+                "text": "mindestens 50"
             },
             "username_reservation": {
-                "name": "Username change reservation",
-                "hint": "(time before username will be available for everyone, not just the original owner)",
-                "text": "about 15-30 minutes"
+                "name": "Reservierung bei der Änderung des Benutzernamens",
+                "hint": "(Zeit bevor der Benutzername für alle verfügbar ist, nicht nur für den ursprünglichen Besitzer)",
+                "text": "ca. 15-30 Minuten"
             }
         }
     },
