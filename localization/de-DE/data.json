@@ -529,7 +529,8 @@
                 "text": "bis zu 256 Zeichen, muss nicht leer sein, wenn über die Bot API gesetzt"
             },
             "start_payload_size": {
-                "name": "Länge der Bot- /start-Payload",
+                "name": "Länge des /start Parametes
+es für Bots",
                 "hint": "wird im Deep Linking verwendet",
                 "text": "bis zu 64 Bytes"
             },
