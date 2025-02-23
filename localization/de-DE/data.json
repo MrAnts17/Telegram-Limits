@@ -3,9 +3,9 @@
     "name": "Konten",
     "items": {
       "username": {
-        "name": "Nutzername",
+        "name": "Benutzername",
         "hint": "(z.B. @cameraman)",
-        "text": "5 bis 32 Zeichen, beginnend mit 4 Zeichen für NFT-Benutzernamen"
+        "text": "5 bis 32 Zeichen, ab 4 Zeichen für NFT Benutzernamen"
       },
       "bio": {
         "name": "Bio",
@@ -13,59 +13,59 @@
         "text": "bis zu 70 Zeichen; für Premium-Nutzer - bis zu 140 Zeichen"
       },
       "name_length": {
-        "name": "Länge des Vornamens",
+        "name": "Vorname Länge",
         "hint": "",
-        "text": "1 bis 64 Zeichen"
+        "text": "von 1 bis 64 Zeichen"
       },
       "last_name_length": {
-        "name": "Länge des Nachnamens",
+        "name": "Nachname Länge",
         "hint": "",
-        "text": "0 bis 64 Zeichen"
+        "text": "von 0 bis 64 Zeichen"
       },
       "self_destruction": {
-        "name": "Selbstzerstörungszeit",
-        "hint": "bei Inaktivität",
-        "text": "1, 3, 6, 12, 18 und 24 Monate (standardmäßig 18)"
+        "name": "Selbstzerstörungszeitraum",
+        "hint": "wenn keine Aktivität",
+        "text": "1, 3, 6 und 12 Monate (6 als Standard)"
       },
       "spam_ban": {
-        "name": "Spamban",
+        "name": "Spam-Sperre",
         "hint": "",
-        "text": "von 1 Sekunde bis dauerhaft"
+        "text": "von 1 Tag bis für immer"
       },
       "channels_and_chats_number": {
         "name": "Anzahl der Kanäle und Supergruppen",
-        "hint": "in denen du Mitglied sein kannst",
-        "text": "bis zu 500 (einschließlich einer, die du besitzt); für Premium-Nutzer - bis zu 1000"
+        "hint": "du kannst Mitglied sein von",
+        "text": "bis zu 500 (einschließlich der von dir erstellten); für Premium-Nutzer - bis zu 1000"
       },
       "geochats_number": {
         "name": "Anzahl der Geochats",
-        "hint": "in denen du Mitglied sein kannst",
-        "text": "bis zu 5 (inklusive denen, die du besitzt)"
+        "hint": "du kannst Mitglied sein von",
+        "text": "unbegrenzt"
       },
       "gifs_number": {
-        "name": "Anzahl gespeicherter GIFs",
+        "name": "Anzahl der gespeicherten GIFs",
         "hint": "",
-        "text": "bis 200; für Premium-Nutzer - bis 400"
+        "text": "bis zu 200; für Premium-Nutzer - bis zu 400"
       },
       "video_length": {
-        "name": "Länge des Profilvideos",
+        "name": "Video-Avatar-Dauer",
         "hint": "",
         "text": "bis zu 10 Sekunden"
       },
       "groups_and_channels_creation": {
-        "name": "Gruppen- und Kanalerstellung",
+        "name": "Erstellung von Gruppen und Kanälen",
         "hint": "",
         "text": "bis zu 50 pro Tag"
       },
       "accounts_number": {
         "name": "Anzahl der Accounts",
         "hint": "(offizielle Clients)",
-        "text": "bis zu 3; für Premium-Nutzer - bis zu 4-6 (abhängig von App)"
+        "text": "bis zu 3; für Premium-Nutzer - bis zu 4-6 (je nach App)"
       },
       "visible_messages": {
-        "name": "Anzahl sichtbarer Nachrichten",
-        "hint": "(geteiltes Limit zwischen privaten Chats, Bots und alten Gruppen)",
-        "text": "unbegrenzt; vor 2018 - bis zu 1 Mio. sichtbare Nachrichten: siehe x.com/telegram/status/1060910769410371584"
+        "name": "Anzahl der sichtbaren Nachrichten",
+        "hint": "(gemeinsames Limit zwischen privaten Chats, Bots und Legacy-Gruppen)",
+        "text": "unbegrenzt; vor 2018 Jahr - bis zu 1.000.000 sichtbare Nachrichten: siehe https://twitter.com/telegram/status/1060910769410371584"
       }
     }
   },
@@ -73,12 +73,12 @@
     "name": "Chats und Gruppen",
     "items": {
       "participants_number": {
-        "name": "Mitglieder",
+        "name": "Teilnehmer",
         "hint": "(Limit kann erhöht werden)",
-        "text": "bis zu 200.000, in Broadcast-Gruppen unbegrenzt"
+        "text": "bis zu 200.000, aber unbegrenzt in Broadcast-Gruppen"
       },
       "admins_number": {
-        "name": "Anzahl der Admins",
+        "name": "Anzahl der Administratoren",
         "hint": "in Gruppen",
         "text": "bis zu 50"
       },
@@ -88,62 +88,62 @@
         "text": "bis zu 20"
       },
       "pinned_number": {
-        "name": "Angepinnte Chats in der Hauptliste",
+        "name": "Anzahl der angepinnten Chats in der Hauptliste",
         "hint": "",
         "text": "bis zu 5 Chats oder Kanäle + 5 geheime Chats; für Premium-Nutzer - bis zu 10 Chats oder Kanäle"
       },
       "group_name": {
-        "name": "Gruppenname und -beschreibung",
+        "name": "Gruppenname und Beschreibung",
         "hint": "",
         "text": "bis zu 255 Zeichen"
       },
       "editing": {
         "name": "Nachrichtenbearbeitung",
         "hint": "",
-        "text": "bis 48 Stunden nach dem Senden; unbegrenzt in Gespeichertes und für Admins mit Anheften-Berechtigung"
+        "text": "innerhalb von 48 Stunden nach dem Senden; unbegrenzt in Gespeichert und für Administratoren mit Anheftungsrechten"
       },
       "media_self_destruction": {
-        "name": "Foto- und Video-Selbstzerstörung",
+        "name": "Selbstzerstörung von Fotos und Videos",
         "hint": "",
         "text": "1 bis 60 Sekunden"
       },
       "recent_actions": {
-        "name": "Letzte Aktionen",
+        "name": "Letzte Aktivitäten",
         "hint": "(Abonnements, Beiträge, etc.)",
-        "text": "letzte zwei Tage"
+        "text": "letzten zwei Tage"
       },
       "mentions_amount": {
         "name": "Anzahl der Erwähnungen",
-        "hint": "in einer einzelnen Nachricht",
-        "text": "bis zu 50, sonst werden keine Benachrichtigungen gesendet"
+        "hint": "in einer einzigen Nachricht",
+        "text": "bis zu 50, nur die ersten 5 aus der Liste erhalten eine Benachrichtigung"
       },
       "visible_messages": {
-        "name": "Anzahl sichtbarer Nachrichten",
-        "hint": "in Gruppe",
+        "name": "Anzahl der sichtbaren Nachrichten",
+        "hint": "in der Gruppe",
         "text": "1.000.000 letzte Nachrichten"
       },
       "pinned_messages_number": {
-        "name": "Anzahl angehefteter Nachrichten",
+        "name": "Anzahl der angepinnten Nachrichten",
         "hint": "",
         "text": "unbegrenzt"
       },
       "participants_to_see_stats": {
-        "name": "Anzahl der Mitgliedern, die Statistiken sehen können",
+        "name": "Anzahl der Mitglieder, um Statistiken zu sehen",
         "hint": "",
         "text": "mindestens 500"
       },
       "username_reservation": {
-        "name": "Reservierung des Nutzernamens bei Änderung",
-        "hint": "(Zeit, bevor der Nutzername für jeden und nicht nur für den ursprünglichen Besitzer verfügbar ist)",
-        "text": "etwa 15 bis 30 Minuten"
+        "name": "Reservierung der Benutzername-Änderung",
+        "hint": "(Zeit, bevor der Benutzername für alle verfügbar ist, nicht nur für den ursprünglichen Besitzer)",
+        "text": "ca. 15-30 Minuten"
       },
       "participants_for_group_stickers": {
-        "name": "Gruppensticker",
+        "name": "Gruppen-promotierte Sticker",
         "hint": "",
-        "text": "Gruppen mit mindestens 100 Mitgliedern"
+        "text": "Gruppen mit 100+ Teilnehmern"
       },
       "chat_role_length": {
-        "name": "Länge der Adminrolle",
+        "name": "Länge der Administratorenrolle",
         "hint": "",
         "text": "bis zu 16 Zeichen"
       },
@@ -160,10 +160,10 @@
       "read_receipts_availability": {
         "name": "Verfügbarkeit von Lesebestätigungen",
         "hint": "",
-        "text": "für Chats mit bis zu 100 Mitgliedern. Die Liste der Nutzer ist nur für den Nutzer verfügbar, der die Nachricht gesendet hat"
+        "text": "für Chats mit 100 Mitgliedern oder weniger, die Liste der Benutzer ist nur für den Benutzer sichtbar, der die Nachricht gesendet hat"
       },
       "read_receipts_lifetime": {
-        "name": "Anzeigedauer von Lesebestätigungen",
+        "name": "Lebensdauer von Lesebestätigungen",
         "hint": "",
         "text": "bis zu 7 Tage seit dem Senden der Nachricht"
       }
