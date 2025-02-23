@@ -390,48 +390,48 @@
         }
     },
     "folders": {
-        "name": "Folders",
+        "name": "Ordner",
         "items": {
             "name_length": {
-                "name": "Folder name length",
+                "name": "Länge des Ordnernamens",
                 "hint": "",
-                "text": "up to 12 characters"
+                "text": "bis zu 12 Zeichen"
             },
             "folder_amount": {
-                "name": "Folders amount",
+                "name": "Anzahl der Ordner",
                 "hint": "",
-                "text": "up to 10 folders",
-                "text_premium": "up to 30 folders"
+                "text": "bis zu 10 Ordner",
+                "text_premium": "bis zu 30 Ordner"
             },
             "chats_per_folder": {
-                "name": "Chats per folder",
-                "hint": "Does not include chats added to the folder by their type (e.g. Channels). Includes chats added to the Exceptions section.",
-                "text": "up to 100 chats",
-                "text_premium": "up to 200 chats"
+                "name": "Chats pro Ordner",
+                "hint": "Beinhaltet keine Chats, die nach ihrem Typ zum Ordner hinzugefügt wurden (z.B. Kanäle). Beinhaltet Chats, die zum Abschnitt Ausnahmen hinzugefügt wurden.",
+                "text": "bis zu 100 Chats",
+                "text_premium": "bis zu 200 Chats"
             },
             "pinned_chats_in_folder": {
-                "name": "Pinned chats in a folder",
+                "name": "Angeheftete Chats in einem Ordner",
                 "hint": "",
-                "text": "up to 100 chats",
-                "text_premium": "up to 200 chats"
+                "text": "bis zu 100 Chats",
+                "text_premium": "bis zu 200 Chats"
             }
         }
     },
     "public_folders": {
-        "name": "Public Folders",
+        "name": "Teilbare Ordner",
         "icon": "folder_shared",
         "items": {
             "public_folders_count": {
-                "name": "Number of public folders",
+                "name": "Anzahl der öffentlichen Ordner",
                 "hint": "",
-                "text": "up to 2 folders",
-                "text_premium": "up to 20 folders"
+                "text": "bis zu 2 Ordner",
+                "text_premium": "bis zu 20 Ordner"
             },
             "chats_per_public_folder": {
-                "name": "Chats/channels per public folder",
+                "name": "Chats/Kanäle pro öffentlichem Ordner",
                 "hint": "",
-                "text": "up to 100 items",
-                "text_premium": "up to 200 items"
+                "text": "bis zu 100 Elemente",
+                "text_premium": "bis zu 200 Elemente"
             }
         }
     },
