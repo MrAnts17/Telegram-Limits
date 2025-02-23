@@ -14,12 +14,12 @@
                 "text_premium": "bis zu 140 Zeichen"
             },
             "name_length": {
-                "name": "Länge des Vornamens",
+                "name": "Vorname Länge",
                 "hint": "",
                 "text": "von 1 bis 64 Zeichen"
             },
             "last_name_length": {
-                "name": "Länge des Nachnamens",
+                "name": "Nachname Länge",
                 "hint": "",
                 "text": "von 0 bis 64 Zeichen"
             },
@@ -439,110 +439,109 @@
         "name": "Bots",
         "items": {
             "bots_amount": {
-                "name": "Bots number",
-                "hint": "(created by @BotFather)",
-                "text": "up to 20 items",
-                "text_premium": "up to 40 items"
+                "name": "Anzahl der Bots",
+                "hint": "(erstellt von @BotFather)",
+                "text": "bis zu 20 Bots",
+                "text_premium": "bis zu 40 Bots"
             },
             "username_length": {
-                "name": "Length of @username",
-                "hint": "for bots",
-                "text": "5 to 32 characters"
+                "name": "Länge des @Benutzernamens",
+                "hint": "für Bots",
+                "text": "5 bis 32 Zeichen"
             },
-            "info_length": {
-                "name": "Bot info length",
+            "                "name": "Länge der Bot Info",
                 "hint": "(/setabouttext)",
-                "text": "up to 120 characters"
+                "text": "bis zu 120 Zeichen"
             },
             "description_length": {
-                "name": "Bot description length",
+                "name": "Länge der Bot Beschreibung",
                 "hint": "",
-                "text": "up to 512 characters"
+                "text": "bis zu 512 Zeichen"
             },
             "upload_limit_botapi": {
-                "name": "File upload limit",
-                "hint": "without local Bot API server",
-                "text": "up to 50 MB"
+                "name": "Datei Upload Limit",
+                "hint": "ohne lokalen Bot API Server",
+                "text": "bis zu 50 MB"
             },
             "upload_limit_botapi_local": {
-                "name": "File upload limit",
-                "hint": "with local Bot API server",
-                "text": "up to 2000 MB"
+                "name": "Datei Upload Limit",
+                "hint": "mit lokalem Bot API Server",
+                "text": "bis zu 2000 MB"
             },
             "download_limit_botapi": {
-                "name": "File download limit",
-                "hint": "without local Bot API server",
-                "text": "up to 20 MB"
+                "name": "Datei Download Limit",
+                "hint": "ohne lokalen Bot API Server",
+                "text": "bis zu 20 MB"
             },
             "download_limit_botapi_local": {
-                "name": "File download limit",
-                "hint": "with local Bot API server",
-                "text": "up to 2000 MB"
+                "name": "Datei Download Limit",
+                "hint": "mit lokalem Bot API Server",
+                "text": "bis zu 2000 MB"
             },
             "keys_in_keyboard_number": {
-                "name": "Keyboard buttons number",
+                "name": "Anzahl der Tastaturtasten",
                 "hint": "",
-                "text": "up to 100 entities"
+                "text": "bis zu 100 Einheiten"
             },
             "formatting_data": {
-                "name": "Message markup data",
-                "hint": "e.g. inline buttons",
-                "text": "up to 10 KB"
+                "name": "Nachrichten Markup Daten",
+                "hint": "z.B. Inline Buttons",
+                "text": "bis zu 10 KB"
             },
             "formatting_entities": {
-                "name": "Formatting entities",
-                "hint": "(bold, cursive etc.)",
-                "text": "up to 100 items"
+                "name": "Formatierungseinheiten",
+                "hint": "(fett, kursiv etc.)",
+                "text": "bis zu 100 Elemente"
             },
             "messaging_frequency": {
-                "name": "Message sending frequency",
-                "hint": "in any chat",
-                "text": "up to roughly one message per second, except maybe short bursts"
+                "name": "Nachrichtensendefrequenz",
+                "hint": "in jedem Chat",
+                "text": "ungefähr eine Nachricht pro Sekunde, außer vielleicht in kurzen Schüben"
             },
             "messaging_frequency_groups": {
-                "name": "Message sending frequency",
-                "hint": "in group chats",
-                "text": "up to 20 messages per minute in the same chat"
+                "name": "Nachrichtensendefrequenz",
+                "hint": "in Gruppenchats",
+                "text": "bis zu 20 Nachrichten pro Minute im gleichen Chat"
             },
             "messaging_frequency_broadcast": {
-                "name": "Message broadcasting frequency",
-                "hint": "only applies when actively sending notifications to otherwise inactive chats",
-                "text": "up to 30 messages per second across chats"
+                "name": "Nachrichten Broadcasting Frequenz",
+                "hint": "gilt nur, wenn aktiv Benachrichtigungen an ansonsten inaktive Chats gesendet werden",
+                "text": "bis zu 30 Nachrichten pro Sekunde über Chats hinweg"
             },
             "api_requests_frequency": {
-                "name": "API requests frequency",
+                "name": "API Anfragen Frequenz",
                 "hint": "",
-                "text": "up to about 30 requests per second"
+                "text": "ungefähr 30 Anfragen pro Sekunde"
             },
             "bot_commands_count": {
-                "name": "Commands amount",
+                "name": "Anzahl der Befehle",
                 "hint": "(in BotFather)",
-                "text": "0 to 100 commands"
+                "text": "0 bis 100 Befehle"
             },
             "bot_command_name_length": {
-                "name": "Command length",
+                "name": "Länge des Befehls",
                 "hint": "(in BotFather)",
-                "text": "from 1 to 32 characters"
+                "text": "von 1 bis 32 Zeichen"
             },
             "bot_command_description_length": {
-                "name": "Command description length",
+                "name": "Länge der Befehlsbeschreibung",
                 "hint": "",
-                "text": "up to 256 characters, must be non-empty when set via Bot API"
+                "text": "bis zu 256 Zeichen, muss nicht leer sein, wenn über die Bot API gesetzt"
             },
             "start_payload_size": {
-                "name": "Bot /start payload length",
-                "hint": "used in deep linking",
-                "text": "up to 64 bytes"
+                "name": "Länge der Bot- /start-Payload",
+                "hint": "wird im Deep Linking verwendet",
+                "text": "bis zu 64 Bytes"
             },
             "bot_alert_length": {
-                "name": "Bot alert message length",
+                "name": "Länge der Bot Alarmnachricht",
                 "hint": "",
-                "text": "up to 200 characters"
+                "text": "bis zu 200 Zeichen"
             },
             "inline_max_items": {
-                "name": "Inline results number",
+                "name": "Anzahl der Inline Ergebnisse",
                 "hint": "",
-                "text": "up to 50 items per page"
+                "text": "bis zu 50 Elemente pro Seite"
             }
         }
     },
