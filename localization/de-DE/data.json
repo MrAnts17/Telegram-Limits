@@ -1,86 +1,86 @@
 {
     "accounts": {
-        "name": "Accounts",
+        "name": "Konten",
         "items": {
             "username": {
-                "name": "Username",
-                "hint": "(e.g. @cameraman)",
-                "text": "5 to 32 characters, starting from 4 characters for NFT usernames"
+                "name": "Benutzername",
+                "hint": "(z.B. @cameraman)",
+                "text": "5 bis 32 Zeichen, beginnend ab 4 Zeichen für NFT Benutzernamen"
             },
             "bio": {
                 "name": "Bio",
                 "hint": "",
-                "text": "up to 70 characters",
-                "text_premium": "up to 140 characters"
+                "text": "bis zu 70 Zeichen",
+                "text_premium": "bis zu 140 Zeichen"
             },
             "name_length": {
-                "name": "First Name length",
+                "name": "Länge des Vornamens",
                 "hint": "",
-                "text": "from 1 to 64 characters"
+                "text": "von 1 bis 64 Zeichen"
             },
             "last_name_length": {
-                "name": "Last Name length",
+                "name": "Länge des Nachnamens",
                 "hint": "",
-                "text": "from 0 to 64 characters"
+                "text": "von 0 bis 64 Zeichen"
             },
             "self_destruction": {
-                "name": "Self-destruction period",
-                "hint": "if no activity",
-                "text": "1, 3, 6, 12, 18, 24 months (18 months by default)"
+                "name": "Selbstzerstörungszeitraum",
+                "hint": "bei Inaktivität",
+                "text": "1, 3, 6, 12, 18, 24 Monate (standardmäßig 18 Monate)"
             },
             "spam_ban": {
-                "name": "Spam ban",
+                "name": "Spam-Bann",
                 "hint": "",
-                "text": "from 1 day up to forever",
-                "text_premium": "from 1 second up to forever"
+                "text": "von 1 Tag bis für immer",
+                "text_premium": "von 1 Sekunde bis für immer"
             },
             "channels_and_chats_number": {
-                "name": "Channels and supergroups number",
-                "hint": "you can be member of",
-                "text": "up to 500 (including ones you own)",
-                "text_premium": "up to 1000 (including ones you own)"
+                "name": "Anzahl der Kanäle und Supergruppen",
+                "hint": "du kannst Mitglied sein von",
+                "text": "bis zu 500 (einschließlich derjenigen, die du besitzt)",
+                "text_premium": "bis zu 1000 (einschließlich derjenigen, die du besitzt)"
             },
             "gifs_number": {
-                "name": "Saved GIFs number",
+                "name": "Anzahl gespeicherter GIFs",
                 "hint": "",
-                "text": "up to 200",
-                "text_premium": "up to 400"
+                "text": "bis zu 200",
+                "text_premium": "bis zu 400"
             },
             "video_length": {
-                "name": "Video-avatar duration",
+                "name": "Dauer des Video Avatars",
                 "hint": "",
-                "text": "up to 10 seconds"
+                "text": "bis zu 10 Sekunden"
             },
             "groups_and_channels_creation": {
-                "name": "Group and channel creation",
+                "name": "Erstellung von Gruppen und Kanälen",
                 "hint": "",
-                "text": "up to 50 in a day"
+                "text": "bis zu 50 an einem Tag"
             },
             "accounts_number": {
-                "name": "Accounts number",
-                "hint": "(official clients)",
-                "text": "up to 3",
-                "text_premium": "up to 4-6 (depends on app)"
+                "name": "Anzahl der Konten",
+                "hint": "(offizielle Clients)",
+                "text": "bis zu 3",
+                "text_premium": "bis zu 4-6 (abhängig von der App)"
             },
             "visible_messages": {
-                "name": "Visible messages number",
-                "hint": "(shared limit between private chats, bots and legacy groups)",
-                "text": "unlimited; before 2018 year - up to 1,000,000 visible messages: see https://twitter.com/telegram/status/1060910769410371584"
+                "name": "Anzahl sichtbarer Nachrichten",
+                "hint": "(gemeinsames Limit zwischen privaten Chats, Bots und Legacy-Gruppen)",
+                "text": "unbegrenzt; vor 2018 bis zu 1.000.000 sichtbare Nachrichten: siehe https://twitter.com/telegram/status/1060910769410371584"
             },
             "sticker_packs_per_account": {
-                "name": "Sticker packs per account",
+                "name": "Anzahl der Sticker Pakete pro Konto",
                 "hint": "",
-                "text": "up to 200"
+                "text": "bis zu 200"
             },
             "emoji_packs_per_account": {
-                "name": "Emoji packs per account",
+                "name": "Anzahl der Emoji Pakete pro Konto",
                 "hint": "",
-                "text": "up to 200"
+                "text": "bis zu 200"
             },
             "username_ownership_for_auction": {
-                "name": "Minimum username ownership for auction",
+                "name": "Mindestbesitzzeit eines Benutzernamens für eine Auktion",
                 "hint": "",
-                "text": "14 days"
+                "text": "14 Tage"
             }
         }
     },
