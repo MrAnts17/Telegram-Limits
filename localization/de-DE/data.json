@@ -449,6 +449,7 @@
                 "hint": "für Bots",
                 "text": "5 bis 32 Zeichen"
             },
+            "info_length": {
                 "name": "Länge der Bot Info",
                 "hint": "(/setabouttext)",
                 "text": "bis zu 120 Zeichen"
